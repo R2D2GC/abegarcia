@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "/images/descargar.jpg",
+        "title": "uñas"
+    },
+    {
+        "id": 2,
+        "image": "/images/images.jpg",
+        "title": "Maquillaje"
+    },
+    {
+        "id": 3,
+        "image": "/images/descargar2.jpg",
+        "title": "Peinados"
+    },
+    {
+        "id": 4,
+        "image": "/images/cortes.jpeg",
+        "title": "Cortes de pelo"
+    }
+]
